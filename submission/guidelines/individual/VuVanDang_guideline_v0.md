@@ -1,12 +1,12 @@
 # Guideline gán nhãn — v0 — Vũ Văn Đăng
 
-- Phiên bản: v0 cá nhân — bản nháp đề xuất, chưa khóa để gán nhãn.
+- Phiên bản: v0 cá nhân — đã xác nhận ngày 16/11/2026; chưa khóa đặc tả nhóm để gán nhãn.
 - Ngày: 16/11/2026.
-- Người viết / duyệt: Vũ Văn Đăng / chưa duyệt.
+- Người viết / duyệt cá nhân: Vũ Văn Đăng (102); chưa duyệt chung với nhóm.
 - Mã thành viên: `102` — nhóm RANDOM.
 - Loại nhãn: bounding box trên ảnh đường phố; công cụ CVAT, xuất COCO 1.0.
 - Căn cứ: `guideline/TEMPLATE_guideline.md`, bản starter, `GUIDE.md`, `RULES.md`, `submission/taxonomy.json` và `docs/QC_CHEATSHEET.md`.
-- Hỗ trợ soạn: AI đã đọc tài liệu và xem ảnh tổng quan của 40 ảnh. Người học cần mở ảnh gốc, kiểm tra các đề xuất và tự quyết định trước khi nộp; đây chưa phải bằng chứng đã hoàn thành Pha 1 độc lập.
+- Hỗ trợ soạn: AI đã đọc tài liệu và xem ảnh tổng quan của 40 ảnh. Vũ Văn Đăng xác nhận đã xem đủ 40 ảnh và đồng ý chốt các quyết định đề xuất ngày 16/11/2026; xem ghi chú tại `submission/individual_notes/102.md`.
 
 ## 1. Mục tiêu
 
@@ -62,7 +62,7 @@ Các ngưỡng che khuất sau đây là đề xuất cá nhân cần được n
 
 ## 4. Ca khó
 
-Các ví dụ được nhận diện trên ảnh tổng quan; quyết định là đề xuất để kiểm tra lại trên ảnh gốc, chưa phải nhật ký đã gán nhãn. Chưa đưa ra số box hay số đo pixel khi chưa kiểm trực tiếp.
+Các ví dụ ban đầu được AI gợi ý từ ảnh tổng quan. Người viết xác nhận đã xem đủ 40 ảnh và đồng ý với các quyết định ở cấp cá nhân. Đây chưa phải nhật ký đã gán nhãn; chưa ghi số box hay số đo pixel cụ thể. Các ca cần review vẫn giữ quyết định có điều kiện để thảo luận với nhóm.
 
 | Ảnh | Tình huống | Rule ID | Quyết định | Lý do |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ Các ví dụ được nhận diện trên ảnh tổng quan; quyết định l�
 | `img_033` | Ma-nơ-canh sau cửa kính. | R-07 | Không gán `person` cho ma-nơ-canh. | Không phải người thật. |
 | `img_038` | Bộ sưu tập ô tô đồ chơi trong tủ. | R-07 | Không gán `car` cho các mô hình. | Đồ chơi ngoài phạm vi. |
 
-Trước khi nộp Pha 1, người viết phải chọn ít nhất ba ca khó từ ảnh gốc, kiểm tra lại và ghi quyết định thực sự của mình trong ghi chú cá nhân. Nếu chưa chốt, giữ trạng thái cần review, không ghi như đã có đồng thuận.
+Ba ca cá nhân đã chốt (`img_002`, `img_005`, `img_017`) được ghi tại `submission/individual_notes/102.md`. Các ca chưa rõ vẫn cần review; xác nhận cá nhân không thay thế đồng thuận nhóm.
 
 ## 5. QC và phiên bản
 
@@ -109,7 +109,7 @@ Ghi riêng box không ghép được và ca bất đồng vùng bỏ qua; IAA ca
 - **Hold:** thiếu bằng chứng, guideline chưa chốt, dữ liệu có vấn đề hoặc chỉ duyệt mẫu.
 - **Rework:** trên 2% ảnh lỗi hoặc có lỗi lặp theo quy tắc lab; sửa và duyệt vòng mới, giữ vòng cũ.
 - **Release:** duyệt toàn lô, đủ bằng chứng và đạt ngưỡng, reviewer xác nhận.
-- Hiện chỉ có bản nháp guideline, chưa có nhãn hay QC để kết luận chất lượng lô. Không điền số đo, kết quả hoặc quyết định bàn giao giả định.
+- Hiện đã chốt guideline cá nhân, chưa có nhãn hay QC để kết luận chất lượng lô. Không điền số đo, kết quả hoặc quyết định bàn giao giả định.
 
 ### Lịch sử phiên bản
 
