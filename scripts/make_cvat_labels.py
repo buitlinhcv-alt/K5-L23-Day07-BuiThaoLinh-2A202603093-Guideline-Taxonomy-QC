@@ -31,14 +31,18 @@ def main() -> None:
                     "mutable": False,
                     "input_type": a["type"],
                     "default_value": str(a.get("default", "")),
-                    "values": [str(v) for v in a.get("values", [])] if a["type"] == "select" else [],
+                    # CVAT's Raw label editor requires a non-empty values array;
+                    # a checkbox stores its initial boolean as its single value.
+                    "values": ([str(v) for v in a.get("values", [])]
+                               if a["type"] == "select"
+                               else [str(a.get("default", "false")).lower()]),
                 })
         labels.append({"name": name, "color": "#808080" if name == tax.ignore else COLORS[i % len(COLORS)],
                        "attributes": attrs})
     text = json.dumps(labels, ensure_ascii=False, indent=2)
     out = ROOT / "cvat" / ("labels_final.json" if args.final else "labels_generated.json")
     out.parent.mkdir(exist_ok=True)
-    out.write_text(text + "\n", encoding="utf8")
+    out.write_bytes((text + "\n").encode("utf8"))
     print(text)
     print(f"\n# Đã ghi {rel(out)} (taxonomy {tax.version}). Dán nội dung vào CVAT: Project -> Labels -> Raw -> Done.")
 
