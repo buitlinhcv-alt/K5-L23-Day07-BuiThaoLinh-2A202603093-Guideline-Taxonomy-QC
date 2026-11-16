@@ -7,7 +7,7 @@
 - Căn cứ: `submission/guidelines/individual/guideline_101.md`, `submission/guidelines/individual/guideline_102.md`, `RULES.md`, `GUIDE.md`, `docs/QC_CHEATSHEET.md`, `submission/taxonomy.json`.
 
 ## 1. Mục tiêu
-Guideline này quy định cách gán nhãn để huấn luyện mô hình (YOLO) phát hiện người và phương tiện thật trong ảnh đường phố. 
+Guideline này quy định cách gán nhãn để huấn luyện mô hình (YOLO) phát hiện người và phương tiện thật trong ảnh đường phố.
 Mục tiêu là đảm bảo tính thống nhất, tránh việc mô hình học sai đối tượng/vị trí. Tuyệt đối tránh các lỗi: gán nhầm loại phương tiện, bỏ sót phương tiện/người, vẽ box lỏng (không ôm sát), gộp người với xe chung một box, hoặc gán nhãn vật thể ảo/đồ chơi.
 
 ## 2. Lớp và thuộc tính
@@ -44,7 +44,7 @@ Tỉ lệ che là ước lượng phần diện tích bị vật khác che khu�
 
 ## 3. Quy tắc vẽ box
 
-1. **Nguyên tắc 1 box (R-03, R-05, R-06):** Box thẳng trục, ôm sát phần nhìn thấy của vật (kể cả mũ bảo hiểm của người). Không lấy dư ra môi trường, khói, bóng đổ hay hàng hóa rời. 
+1. **Nguyên tắc 1 box (R-03, R-05, R-06):** Box thẳng trục, ôm sát phần nhìn thấy của vật (kể cả mũ bảo hiểm của người). Không lấy dư ra môi trường, khói, bóng đổ hay hàng hóa rời.
    - Không gộp chung người và xe thành 1 box; mỗi người 1 box `person`, mỗi xe 1 box xe.
    - Xe chở xe: Box xe vận chuyển riêng, box từng chiếc xe được chở phía trên riêng (theo đúng lớp của xe đó).
 2. **Che khuất & Cắt mép (R-04):** Vẽ box ôm sát **phần còn nhìn thấy**, không suy đoán và vẽ lấn ra phần bị khuất hay nằm ngoài ảnh. Cập nhật chính xác `occluded_level` và `truncated`. Vật khuất hoàn toàn không vẽ.
