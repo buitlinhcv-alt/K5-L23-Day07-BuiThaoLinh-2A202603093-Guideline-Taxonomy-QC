@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm: 
-- Mã thành viên (ba chữ số):
-- Người điều phối:
-- Người review bản cuối:
+- Tên nhóm: RANDOM
+- Mã thành viên (ba chữ số): Bui Thao Linh (101), Vu Van Dang ( 102) 
+- Người điều phối: Bui Thao Linh (101)
+- Người review bản cuối: Vu Van Dang ( 102) 
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
