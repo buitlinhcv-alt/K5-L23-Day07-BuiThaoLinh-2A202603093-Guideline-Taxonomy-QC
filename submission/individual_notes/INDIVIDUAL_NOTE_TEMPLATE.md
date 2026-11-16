@@ -5,8 +5,9 @@
 ## 1. Pha 1: ba ca khó tôi tìm ra trong 40 ảnh
 | Ảnh | v0 không trả lời được gì | Quyết định ban đầu của tôi |
 |---|---|---|
-| img_0xx | | |
-
+| `img_002` | Xe lồng chở nhiều ô tô: gán nhãn xe lồng hay cả các xe bị chở? | Gán 1 box `truck` cho xe tải lớn, gán các box `car` riêng biệt cho từng xe con trên thùng. |
+| `img_004` | Xe 3 bánh (tuk-tuk): xếp vào lớp nào? | Không tự gán, đánh dấu `can_review` để hỏi Reviewer. |
+| `img_038` | Xe phản chiếu trong gương/nước: có vẽ box không? | Không gán nhãn cho hình phản chiếu.[cite: 3] |
 ## 2. Pha 2: chỗ tôi bất đồng với nhóm
 - Chỗ nào bản của tôi khác bản của bạn? Cuối cùng nhóm chốt gì, tôi đồng ý / chưa đồng ý vì sao?
 
