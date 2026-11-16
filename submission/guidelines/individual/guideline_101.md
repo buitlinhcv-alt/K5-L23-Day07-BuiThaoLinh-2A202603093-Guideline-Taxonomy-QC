@@ -1,4 +1,4 @@
-# Guideline gán nhãn — <phiên bản> — <mã hoặc nhóm>
+# Guideline gán nhãn — V0 — 101
 
 > Copy file này (hoặc `guideline_v0_starter.md`) rồi viết. Một guideline đủ gồm **5 phần**. Câu nào của v0
 > làm hai người đọc ra hai cách khác nhau thì phải viết lại cho một cách hiểu duy nhất.
