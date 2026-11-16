@@ -52,7 +52,7 @@ Vật **không thuộc các lớp trên** (như xe đạp, xe buýt, biển báo
 ## 4. Ca khó
 | Ảnh | Tình huống | Rule ID | Quyết định | Lý do |
 |---|---|---|---|---|
-| Các ảnh chỉ có xe máy, xe đạp, người đi bộ | Đối tượng không thuộc 4 lớp | R_IGNORE | **Không gán nhãn** | Không thuộc phạm vi dataset. |
+| Các ảnh chỉ có xe đạp, xe buýt, biển báo, đèn giao thông, biển quảng cáo, ... | Đối tượng không thuộc 5 lớp | R_IGNORE | **Không gán nhãn** | Không thuộc phạm vi dataset. |
 | img_002 | Xe chở nhiều ô tô trên thùng | R_MULTI | **Gán nhãn xe tải và các ô tô nhìn thấy rõ** | Mỗi phương tiện là một đối tượng độc lập. |
 | img_011, 017, 020, 027, 033, 038 | Đồ chơi, phản chiếu, tượng, mannequin | R_FAKE | **Không gán nhãn** | Không phải phương tiện thật đang tham gia giao thông. |
 | Các ảnh có phương tiện rất nhỏ | Phần phương tiện nhìn thấy dưới 20 pixel | R_TINY | **Chuyển Reviewer xem xét** | Khó xác định chính xác loại phương tiện. |
