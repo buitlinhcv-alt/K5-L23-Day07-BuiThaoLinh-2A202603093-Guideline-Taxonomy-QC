@@ -3,7 +3,7 @@
   "date": "2026-11-17",
   "source_commit": "ebf26382bb9496aeab24924369e622450e1c7f32",
   "formal_qc_round_completed": false,
-  "cases_pending": 1085,
+  "cases_pending": 971,
   "images_flagged": 35,
   "commands": [
     {
@@ -43,12 +43,17 @@
     "submission/labels/102.json": "cdc0d4b4ad5fa9d1ee4d90b504e80d42bc13255dcf5f8fda7ac5a869ffcb4836",
     "submission/labels/README.md": "49bc22ea461d0fcda5563553dc41a7835f3041d8748e954f075b5805ce2ca78f",
     "submission/qc/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "submission/qc/ai_calibration_20261117/case_dispositions.csv": "d1ccb522c41d71e37c9e6cd621c6df46791d4b6f244f62d1add07d8b7fc35c40",
+    "submission/qc/ai_calibration_20261117/decisions_before_review.csv": "ac2d0cba9044c05028570f4c1d8fc2d77551f187c9b78a522a4c0347180d583d",
+    "submission/qc/ai_calibration_20261117/labels_candidate_reviewed_images.json": "56f0cc54121af82fadee79249212cd6717b204e820c6f9ebcc731c4665d9922b",
+    "submission/qc/ai_calibration_20261117/REVIEW.md": "b8bf89806ccc1897a56ff3f346ef08e4686305ef4b7739bced9229d68c2e777b",
+    "submission/qc/ai_calibration_20261117/summary.json": "1b2698807043fd23897f0c4716b437e529270ee0c338cbd593795c8f49f37ccc",
     "submission/qc/assignment.csv": "17a9df4d86d6abd1a40ce64de0560e3d245a7154ab3ac6761d5f39daf139b604",
     "submission/qc/assignments/101.txt": "d7d2a0af54483341b8aa056069c2012dd629a4a22dae9c8c38ca0d8d9061cbba",
     "submission/qc/assignments/102.txt": "d7d2a0af54483341b8aa056069c2012dd629a4a22dae9c8c38ca0d8d9061cbba",
     "submission/qc/calibration_candidates.csv": "c33cb9d29046c16155112a668ccfe65e6b44cf7328820a3eb2caa8d4ece72cda",
     "submission/qc/calibration_context.json": "acaa7b69079845c38982b54757e6f5da5a5d02d6e1c57fd06749a8c02ea14f7c",
-    "submission/qc/calibration_decisions.csv": "ac2d0cba9044c05028570f4c1d8fc2d77551f187c9b78a522a4c0347180d583d",
+    "submission/qc/calibration_decisions.csv": "41cc7c1185e922c02e9219d5993eea23993829d7b9d00f836235c451841abacc",
     "submission/qc/calibration_review_queue.csv": "7afae753a6da58f4a799294100af4db0ea12cd8839143cb0340d4b941bc924f7",
     "submission/qc/consensus_draft.json": "05685a1fd1dd5adb2bfa7cf5237af2a8b48276604097df8a8e23df79f0f35418",
     "submission/qc/flagged_images.txt": "98198e57e01ac185b4b7f43903bb74af4a687b9f204db3ef5d61c4f0be7f48f8",
@@ -63,7 +68,7 @@
     "submission/qc/logs/qc_report.log": "08d4a1b7c3ccb7f63d6cf86db6cdaf2f9cdc285b2daa25cb6ce6340603547528",
     "submission/qc/logs/qc_sample.log": "8fb9ffc56f67eec854d53727aa570e636f16439fc1ec7799742fc1cc4ac7af38",
     "submission/qc/logs/validate_labels.log": "87bcbf7be0df4b08a197308708a71377873e9c1bf5adebfcbef8fa9474330b24",
-    "submission/qc/QC_REPORT.md": "7e8954994cbc074b487e8183e0b182fc365076c4e535187818393165899df306",
+    "submission/qc/QC_REPORT.md": "097a8f9355aa33470bae743b778b651ea6f0f426e841e8bbca5c0b3784645ab1",
     "submission/qc/source_evidence/101_original_export.json": "15c8828c99a0af27674cdd76fd29e5c48c95972ecf8ac67f89b05e331ae383d0",
     "submission/qc/source_evidence/assignment_original.csv": "4d11e1a8133212957c1ba5433d41763123374d9a4b38fb7bb490c615ea237d3d",
     "submission/qc/source_evidence/excluded_copy_image.json": "2f7e7a111b0e71d0ff476436ddd4cc5fad54fc7cbf00714fb488c1e3746bc0d3",
@@ -105,5 +110,13 @@
     "submission/qc/visualizations/img_039.jpg": "ed83ca093431ba081d62124362159fe67ae498b806aad59026d6ede3d43ed2d5",
     "submission/qc/visualizations/img_040.jpg": "1bfe8b251c0b61d6cb55d91ddf640c05f7f26266293c9d224fd63d5fa2a654eb",
     "submission/taxonomy.json": "d37eac934dfd07540cf161c832e987b2213f5d918988dbe1edcd90ee880495d0"
+  },
+  "ai_calibration": {
+    "ai_decided_cases": 114,
+    "pending_cases": 971,
+    "reviewed_images_with_candidate": 13,
+    "images_pending": 22,
+    "status": "HOLD",
+    "original_iaa_preserved": true
   }
 }

@@ -46,3 +46,7 @@
 ## 6. Kiểm tra và cách tiếp tục
 
 Xem logs/ và HANDOFF.md. check_submission.py dự kiến còn lỗi do chưa có bằng chứng vòng 1; giữ nguyên lỗi và không sửa script để cho qua. Hồ sơ Hold được phép bàn giao bằng chứng hiện có theo SUBMISSION.md.
+
+## Cập nhật calibration AI — 17/11/2026
+
+Đã ghi quyết định ứng viên 114/1085 mục trên 13 ảnh, còn 971 mục trên 22 ảnh. Xem ai_calibration_20261117/REVIEW.md. Các con số 0/1085 ở mô tả bàn giao ban đầu bên trên là trạng thái trước lượt rà soát này; trạng thái hiện hành dùng cập nhật này. Chưa có QC cuối độc lập; quyết định Hold giữ nguyên.
