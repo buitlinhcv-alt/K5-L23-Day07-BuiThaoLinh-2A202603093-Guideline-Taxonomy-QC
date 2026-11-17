@@ -1,0 +1,26 @@
+[
+  {
+    "command": "python scripts/validate_labels.py --all",
+    "exit_code": 0
+  },
+  {
+    "command": "python scripts/build_final.py ",
+    "exit_code": 2
+  },
+  {
+    "command": "python scripts/prepare_calibration.py ",
+    "exit_code": 2
+  },
+  {
+    "command": "python scripts/qc_sample.py --round 1",
+    "exit_code": 2
+  },
+  {
+    "command": "python scripts/qc_report.py --round 1",
+    "exit_code": 0
+  },
+  {
+    "command": "python scripts/check_submission.py --round 1",
+    "exit_code": 1
+  }
+]

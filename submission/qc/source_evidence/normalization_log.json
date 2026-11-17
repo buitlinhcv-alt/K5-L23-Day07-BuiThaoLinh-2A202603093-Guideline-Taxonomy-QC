@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-17",
+  "source_commit": "ebf26382bb9496aeab24924369e622450e1c7f32",
+  "action": "Exclude extra Copy image and its 22 annotations; keep canonical img_034.jpg and its annotations unchanged. IDs preserved. Original export archived. No box coordinates or labels edited.",
+  "removed_image_ids": [
+    34
+  ],
+  "removed_annotations": 22,
+  "retained_images": 40,
+  "retained_annotations": 320,
+  "taxonomy": "Synchronized version and class descriptions to already agreed v1.0 before IAA; original v0 preserved; rules and attribute schema unchanged. This does not prove historical annotator compliance."
+}

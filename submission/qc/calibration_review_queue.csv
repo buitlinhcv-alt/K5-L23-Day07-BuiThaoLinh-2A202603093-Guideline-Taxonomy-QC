@@ -1,0 +1,1086 @@
+case_id,image,issue_type,suggested_rule,next_action,status
+C001,img_001.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C002,img_001.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C003,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C004,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C005,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C006,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C007,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C008,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C009,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C010,img_001.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C011,img_001.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C012,img_001.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C013,img_001.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C014,img_001.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C015,img_001.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C016,img_001.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C017,img_001.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C018,img_002.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C019,img_002.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C020,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C021,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C022,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C023,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C024,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C025,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C026,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C027,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C028,img_002.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C029,img_002.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C030,img_002.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C031,img_002.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C032,img_002.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C033,img_002.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C034,img_002.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C035,img_002.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C036,img_002.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C037,img_002.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C038,img_002.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C039,img_002.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C040,img_003.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C041,img_003.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C042,img_003.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C043,img_003.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C044,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C045,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C046,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C047,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C048,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C049,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C050,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C051,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C052,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C053,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C054,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C055,img_003.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C056,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C057,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C058,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C059,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C060,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C061,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C062,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C063,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C064,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C065,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C066,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C067,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C068,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C069,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C070,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C071,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C072,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C073,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C074,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C075,img_003.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C076,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C077,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C078,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C079,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C080,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C081,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C082,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C083,img_003.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C084,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C085,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C086,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C087,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C088,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C089,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C090,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C091,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C092,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C093,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C094,img_003.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C095,img_004.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C096,img_004.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C097,img_004.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C098,img_004.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C099,img_004.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C100,img_004.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C101,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C102,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C103,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C104,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C105,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C106,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C107,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C108,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C109,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C110,img_005.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C111,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C112,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C113,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C114,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C115,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C116,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C117,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C118,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C119,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C120,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C121,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C122,img_005.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C123,img_005.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C124,img_005.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C125,img_005.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C126,img_006.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C127,img_006.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C128,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C129,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C130,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C131,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C132,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C133,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C134,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C135,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C136,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C137,img_006.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C138,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C139,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C140,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C141,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C142,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C143,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C144,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C145,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C146,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C147,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C148,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C149,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C150,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C151,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C152,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C153,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C154,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C155,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C156,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C157,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C158,img_006.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C159,img_006.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C160,img_006.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C161,img_006.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C162,img_006.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C163,img_006.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C164,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C165,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C166,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C167,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C168,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C169,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C170,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C171,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C172,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C173,img_006.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C174,img_007.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C175,img_007.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C176,img_007.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C177,img_007.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C178,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C179,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C180,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C181,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C182,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C183,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C184,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C185,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C186,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C187,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C188,img_008.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C189,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C190,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C191,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C192,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C193,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C194,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C195,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C196,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C197,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C198,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C199,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C200,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C201,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C202,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C203,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C204,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C205,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C206,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C207,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C208,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C209,img_008.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C210,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C211,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C212,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C213,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C214,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C215,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C216,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C217,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C218,img_008.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C219,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C220,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C221,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C222,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C223,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C224,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C225,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C226,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C227,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C228,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C229,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C230,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C231,img_008.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C232,img_009.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C233,img_009.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C234,img_009.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C235,img_009.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C236,img_009.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C237,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C238,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C239,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C240,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C241,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C242,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C243,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C244,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C245,img_009.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C246,img_009.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C247,img_009.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C248,img_009.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C249,img_009.jpg,sai_lop,R-01; Mục 2: Lớp,Đối chiếu định nghĩa lớp và ảnh gốc; ghi lớp thống nhất cùng lý do.,PENDING_HUMAN_CALIBRATION
+C250,img_009.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C251,img_009.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C252,img_009.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C253,img_009.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C254,img_009.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C255,img_010.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C256,img_010.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C257,img_010.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C258,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C259,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C260,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C261,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C262,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C263,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C264,img_010.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C265,img_010.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C266,img_010.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C267,img_010.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C268,img_010.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C269,img_010.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C270,img_010.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C271,img_010.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C272,img_010.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C273,img_010.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C274,img_010.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C275,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C276,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C277,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C278,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C279,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C280,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C281,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C282,img_011.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C283,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C284,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C285,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C286,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C287,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C288,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C289,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C290,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C291,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C292,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C293,img_011.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C294,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C295,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C296,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C297,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C298,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C299,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C300,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C301,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C302,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C303,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C304,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C305,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C306,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C307,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C308,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C309,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C310,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C311,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C312,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C313,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C314,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C315,img_011.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C316,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C317,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C318,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C319,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C320,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C321,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C322,img_011.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C323,img_011.jpg,sai_lop,R-01; Mục 2: Lớp,Đối chiếu định nghĩa lớp và ảnh gốc; ghi lớp thống nhất cùng lý do.,PENDING_HUMAN_CALIBRATION
+C324,img_011.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C325,img_011.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C326,img_011.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C327,img_011.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C328,img_011.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C329,img_011.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C330,img_012.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C331,img_012.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C332,img_012.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C333,img_012.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C334,img_012.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C335,img_012.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C336,img_012.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C337,img_012.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C338,img_013.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C339,img_013.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C340,img_013.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C341,img_013.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C342,img_013.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C343,img_013.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C344,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C345,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C346,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C347,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C348,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C349,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C350,img_013.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C351,img_013.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C352,img_014.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C353,img_014.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C354,img_014.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C355,img_014.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C356,img_014.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C357,img_014.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C358,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C359,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C360,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C361,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C362,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C363,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C364,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C365,img_014.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C366,img_015.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C367,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C368,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C369,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C370,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C371,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C372,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C373,img_015.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C374,img_015.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C375,img_015.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C376,img_016.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C377,img_016.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C378,img_016.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C379,img_016.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C380,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C381,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C382,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C383,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C384,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C385,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C386,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C387,img_016.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C388,img_016.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C389,img_016.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C390,img_016.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C391,img_016.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C392,img_016.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C393,img_018.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C394,img_018.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C395,img_018.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C396,img_018.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C397,img_018.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C398,img_018.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C399,img_018.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C400,img_018.jpg,sai_lop,R-01; Mục 2: Lớp,Đối chiếu định nghĩa lớp và ảnh gốc; ghi lớp thống nhất cùng lý do.,PENDING_HUMAN_CALIBRATION
+C401,img_018.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C402,img_018.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C403,img_018.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C404,img_018.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C405,img_018.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C406,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C407,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C408,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C409,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C410,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C411,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C412,img_019.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C413,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C414,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C415,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C416,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C417,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C418,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C419,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C420,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C421,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C422,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C423,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C424,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C425,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C426,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C427,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C428,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C429,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C430,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C431,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C432,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C433,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C434,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C435,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C436,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C437,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C438,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C439,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C440,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C441,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C442,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C443,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C444,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C445,img_019.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C446,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C447,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C448,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C449,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C450,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C451,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C452,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C453,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C454,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C455,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C456,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C457,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C458,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C459,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C460,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C461,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C462,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C463,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C464,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C465,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C466,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C467,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C468,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C469,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C470,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C471,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C472,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C473,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C474,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C475,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C476,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C477,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C478,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C479,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C480,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C481,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C482,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C483,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C484,img_019.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C485,img_019.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C486,img_019.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C487,img_019.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C488,img_019.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C489,img_019.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C490,img_019.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C491,img_019.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C492,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C493,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C494,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C495,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C496,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C497,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C498,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C499,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C500,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C501,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C502,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C503,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C504,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C505,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C506,img_021.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C507,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C508,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C509,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C510,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C511,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C512,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C513,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C514,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C515,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C516,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C517,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C518,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C519,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C520,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C521,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C522,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C523,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C524,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C525,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C526,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C527,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C528,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C529,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C530,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C531,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C532,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C533,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C534,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C535,img_021.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C536,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C537,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C538,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C539,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C540,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C541,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C542,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C543,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C544,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C545,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C546,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C547,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C548,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C549,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C550,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C551,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C552,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C553,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C554,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C555,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C556,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C557,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C558,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C559,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C560,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C561,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C562,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C563,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C564,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C565,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C566,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C567,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C568,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C569,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C570,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C571,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C572,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C573,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C574,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C575,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C576,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C577,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C578,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C579,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C580,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C581,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C582,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C583,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C584,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C585,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C586,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C587,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C588,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C589,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C590,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C591,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C592,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C593,img_021.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C594,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C595,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C596,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C597,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C598,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C599,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C600,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C601,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C602,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C603,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C604,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C605,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C606,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C607,img_021.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C608,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C609,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C610,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C611,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C612,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C613,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C614,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C615,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C616,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C617,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C618,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C619,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C620,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C621,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C622,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C623,img_021.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C624,img_022.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C625,img_022.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C626,img_022.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C627,img_023.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C628,img_023.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C629,img_023.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C630,img_023.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C631,img_023.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C632,img_023.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C633,img_023.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C634,img_023.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C635,img_023.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C636,img_023.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C637,img_023.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C638,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C639,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C640,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C641,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C642,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C643,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C644,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C645,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C646,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C647,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C648,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C649,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C650,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C651,img_023.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C652,img_023.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C653,img_023.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C654,img_023.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C655,img_023.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C656,img_023.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C657,img_023.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C658,img_023.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C659,img_023.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C660,img_024.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C661,img_024.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C662,img_024.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C663,img_024.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C664,img_024.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C665,img_024.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C666,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C667,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C668,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C669,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C670,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C671,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C672,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C673,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C674,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C675,img_024.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C676,img_024.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C677,img_024.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C678,img_024.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C679,img_025.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C680,img_025.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C681,img_025.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C682,img_025.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C683,img_025.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C684,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C685,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C686,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C687,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C688,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C689,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C690,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C691,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C692,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C693,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C694,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C695,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C696,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C697,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C698,img_025.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C699,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C700,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C701,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C702,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C703,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C704,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C705,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C706,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C707,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C708,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C709,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C710,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C711,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C712,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C713,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C714,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C715,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C716,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C717,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C718,img_025.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C719,img_025.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C720,img_025.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C721,img_025.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C722,img_025.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C723,img_025.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C724,img_025.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C725,img_025.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C726,img_025.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C727,img_025.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C728,img_026.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C729,img_026.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C730,img_026.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C731,img_026.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C732,img_026.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C733,img_026.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C734,img_028.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C735,img_028.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C736,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C737,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C738,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C739,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C740,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C741,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C742,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C743,img_029.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C744,img_029.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C745,img_029.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C746,img_029.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C747,img_029.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C748,img_029.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C749,img_029.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C750,img_029.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C751,img_029.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C752,img_030.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C753,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C754,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C755,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C756,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C757,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C758,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C759,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C760,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C761,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C762,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C763,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C764,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C765,img_030.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C766,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C767,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C768,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C769,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C770,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C771,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C772,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C773,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C774,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C775,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C776,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C777,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C778,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C779,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C780,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C781,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C782,img_030.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C783,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C784,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C785,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C786,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C787,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C788,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C789,img_030.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C790,img_030.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C791,img_030.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C792,img_030.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C793,img_030.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C794,img_030.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C795,img_030.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C796,img_031.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C797,img_031.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C798,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C799,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C800,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C801,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C802,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C803,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C804,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C805,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C806,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C807,img_031.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C808,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C809,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C810,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C811,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C812,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C813,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C814,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C815,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C816,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C817,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C818,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C819,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C820,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C821,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C822,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C823,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C824,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C825,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C826,img_031.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C827,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C828,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C829,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C830,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C831,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C832,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C833,img_031.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C834,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C835,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C836,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C837,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C838,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C839,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C840,img_031.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C841,img_032.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C842,img_032.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C843,img_032.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C844,img_032.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C845,img_032.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C846,img_032.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C847,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C848,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C849,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C850,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C851,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C852,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C853,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C854,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C855,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C856,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C857,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C858,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C859,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C860,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C861,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C862,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C863,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C864,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C865,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C866,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C867,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C868,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C869,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C870,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C871,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C872,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C873,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C874,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C875,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C876,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C877,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C878,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C879,img_032.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C880,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C881,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C882,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C883,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C884,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C885,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C886,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C887,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C888,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C889,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C890,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C891,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C892,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C893,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C894,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C895,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C896,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C897,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C898,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C899,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C900,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C901,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C902,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C903,img_032.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C904,img_032.jpg,sai_lop,R-01; Mục 2: Lớp,Đối chiếu định nghĩa lớp và ảnh gốc; ghi lớp thống nhất cùng lý do.,PENDING_HUMAN_CALIBRATION
+C905,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C906,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C907,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C908,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C909,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C910,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C911,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C912,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C913,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C914,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C915,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C916,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C917,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C918,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C919,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C920,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C921,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C922,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C923,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C924,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C925,img_032.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C926,img_034.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C927,img_034.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C928,img_034.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C929,img_034.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C930,img_034.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C931,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C932,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C933,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C934,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C935,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C936,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C937,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C938,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C939,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C940,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C941,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C942,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C943,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C944,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C945,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C946,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C947,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C948,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C949,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C950,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C951,img_034.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C952,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C953,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C954,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C955,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C956,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C957,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C958,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C959,img_034.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C960,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C961,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C962,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C963,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C964,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C965,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C966,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C967,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C968,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C969,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C970,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C971,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C972,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C973,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C974,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C975,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C976,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C977,img_034.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C978,img_035.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C979,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C980,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C981,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C982,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C983,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C984,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C985,img_035.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C986,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C987,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C988,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C989,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C990,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C991,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C992,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C993,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C994,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C995,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C996,img_035.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C997,img_035.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C998,img_035.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C999,img_035.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1000,img_035.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1001,img_035.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1002,img_035.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1003,img_035.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1004,img_036.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1005,img_036.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1006,img_036.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1007,img_036.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1008,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1009,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1010,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1011,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1012,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1013,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1014,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1015,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1016,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1017,img_036.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1018,img_036.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1019,img_036.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1020,img_036.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1021,img_036.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1022,img_036.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1023,img_036.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1024,img_036.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1025,img_036.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1026,img_037.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1027,img_037.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1028,img_037.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1029,img_039.jpg,bat_dong_ignore,"R-09, R-10",Kiểm chiều cao 20 px và khả năng tách từng vật; tránh ignore phủ vật gán được.,PENDING_HUMAN_CALIBRATION
+C1030,img_039.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1031,img_039.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1032,img_039.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1033,img_039.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1034,img_039.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1035,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1036,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1037,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1038,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1039,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1040,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1041,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1042,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1043,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1044,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1045,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1046,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1047,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1048,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1049,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1050,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1051,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1052,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1053,img_039.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1054,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1055,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1056,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1057,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1058,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1059,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1060,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1061,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1062,img_039.jpg,iou_thap,"R-03, R-04","Đối chiếu biên phần nhìn thấy; vẽ lại box cần sửa, không tự lấy trung bình làm nhãn đúng.",PENDING_HUMAN_CALIBRATION
+C1063,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1064,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1065,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1066,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1067,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1068,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1069,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1070,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1071,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1072,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1073,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1074,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1075,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1076,img_039.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION
+C1077,img_040.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1078,img_040.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1079,img_040.jpg,bo_sot_thua,"R-01, R-03, R-05, R-07, R-09",Đối chiếu vật thật để phân biệt bỏ sót và box thừa; không mặc định chọn nhiều box hơn.,PENDING_HUMAN_CALIBRATION
+C1080,img_040.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1081,img_040.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1082,img_040.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1083,img_040.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1084,img_040.jpg,co_can_review,R-11,"Kiểm lớp, vị trí, thuộc tính; chỉ bỏ cờ sau khi có kết luận.",PENDING_HUMAN_CALIBRATION
+C1085,img_040.jpg,sai_thuoc_tinh,Mục 2: Thuộc tính; R-04,Kiểm che khuất theo ngưỡng 30/70% và cắt mép; ghi giá trị đã chốt.,PENDING_HUMAN_CALIBRATION

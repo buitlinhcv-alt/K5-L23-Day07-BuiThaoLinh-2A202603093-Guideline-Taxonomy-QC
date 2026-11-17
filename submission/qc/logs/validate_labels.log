@@ -1,0 +1,6 @@
+submission\labels\101.json: hợp lệ về cấu trúc, 40 ảnh.
+[WARN] img_031.jpg #228: rà lại quy tắc vật nhỏ.
+[WARN] img_031.jpg #229: rà lại quy tắc vật nhỏ.
+[WARN] img_039.jpg #333: rà lại quy tắc vật nhỏ.
+submission\labels\102.json: hợp lệ về cấu trúc, 40 ảnh.
+Reviewer kiểm box có đúng vật, đúng lớp, ôm sát và có bỏ sót hay không.

@@ -15,9 +15,9 @@
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Lượt gán hoàn tất / được giao:
-- IAA trước calibration (kèm mẫu số):
-- Số ảnh phải calibration: … / 40
-- Vòng QC và số ảnh đã duyệt / cả lô:
-- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
+- Lượt gán hoàn tất / được giao: 80/80 hợp lệ cấu trúc; nhãn 102 có AI hỗ trợ, tính độc lập cần xác nhận.
+- IAA trước calibration (kèm mẫu số): IoU TB 0,780958; cùng lớp 256/260 (98,46%); chưa đạt ngưỡng IoU 0,85.
+- Số ảnh phải calibration: 35/40; 1.085 ca chưa chốt.
+- Vòng QC và số ảnh đã duyệt / cả lô: chưa mở vòng chính thức; 0/40 có phiếu QC cuối.
+- Tỉ lệ lỗi: N/A; chưa có mẫu số duyệt nhãn cuối.
+- **Quyết định**: Hold — đã đo IAA, còn calibration và QC cuối; xem submission/qc/QC_REPORT.md.
