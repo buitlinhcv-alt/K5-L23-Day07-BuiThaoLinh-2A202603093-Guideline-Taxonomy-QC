@@ -1,2 +1,3 @@
-
-LỖI: guideline_change.json: [Errno 2] No such file or directory: 'D:\\Day07_submission_20261117\\submission\\guideline_change.json'
+Có thể nạp nhãn nháp từ work/calib/consensus_flagged.json.
+Đã chuẩn bị 35 ảnh ở work/calib/images/.
+COCO sau sửa: submission\qc\labels_calibrated_3c8375f93fe23b95.json

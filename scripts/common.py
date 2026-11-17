@@ -140,7 +140,8 @@ def xywh_to_xyxy(b) -> Box:
 
 
 def xyxy_to_xywh(b: Box) -> List[float]:
-    return [round(b[0], 2), round(b[1], 2), round(b[2] - b[0], 2), round(b[3] - b[1], 2)]
+    x1, y1, x2, y2 = (round(v, 2) for v in b)
+    return [x1, y1, round(x2 - x1, 2), round(y2 - y1, 2)]
 
 
 def area(b: Box) -> float:

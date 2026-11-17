@@ -1,0 +1,11 @@
+{
+  "source": "102.json retained as candidate for all affected images",
+  "coordinate_changes": 0,
+  "human_cvat_correction_claimed": false,
+  "fully_resolved_cases": 0,
+  "ai_candidate_decisions": 114,
+  "deferred_cases": 971,
+  "formal_human_qc_completed": false,
+  "candidate_export": "submission\\qc\\labels_calibrated_3c8375f93fe23b95.json",
+  "status": "HOLD"
+}
