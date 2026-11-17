@@ -11,7 +11,7 @@
 - Ca đã xử lý, rule ID, bản sửa và người xác nhận: 114 mục có quyết định ứng viên AI trên 13 ảnh; 971 mục được ghi DEFER_TO_QC, chưa giải quyết nội dung. Xem calibration_decisions.csv, pending_calibration_cases.csv. Không coi điền đủ cột là đã sửa lỗi.
 - Tác động v1.1 lên nhãn và ảnh: không đổi ngữ nghĩa. Bộ ứng viên giữ hình học 102, không tuyên bố sửa qua CVAT; 35 ảnh calibration dùng file theo hash và 5 ảnh không bị cờ dùng consensus của script. Xem ai_calibration_20261117/pipeline_disclosure.json.
 - Tham chiếu bằng chứng khi Rework: chưa có vòng sửa sau review. Nhãn gốc 101/102 giữ nguyên sau lần chuẩn hóa có lưu bản gốc; các artifact trước sửa lỗi làm tròn được lưu ai_calibration_20261117/.
-- Vòng QC: 1
+- Vòng QC: 2
 - Người review và ngày: Codex chạy pipeline theo ủy quyền 102 ngày 17/11/2026; chưa có phiếu người học review độc lập. Không ghi giả mã reviewer.
 - Đã duyệt / cả lô: 0/40 có phiếu review cuối; đã mở vòng full 40/40 ảnh, snapshot và phiếu trống trong reviews/round-01/.
 - Ảnh lỗi / ảnh đã duyệt: N/A, mẫu số 0. Không phải 0% lỗi.
@@ -25,3 +25,9 @@
 - Kiểm ngược từ báo cáo tới ảnh, rule và nhãn: C001 -> calibration_decisions.csv -> img_001 -> R-03/R-05 -> labels_calibrated.json, reviews/round-01/labels_snapshot.json. Mục quyết định là AI; QC cuối vẫn chờ.
 
 `check_submission.py` kiểm tính đầy đủ và đồng bộ artifact. Kết quả 0 lỗi với quyết định Hold không chứng minh nhãn đúng hoặc hoàn tất review nội dung. Không có dòng ảnh sạch được tạo thay người học.
+
+## Cập nhật lượt rà soát AI và vòng 2
+
+Đã xem 40/40 ảnh có box trong lượt rà soát AI; 9/40 ảnh có kết luận hẹp không thấy lỗi xác nhận ở lượt này; 31/40 còn cần rà sâu, không ghi sạch. Đây không phải 40 ảnh đạt QC cuối. 3 phát hiện trên 3 ảnh được ghi vòng 1 và sửa trong QAI01–QAI03: thêm person img_002, mở rộng box người lái img_004, thêm motorcycle img_010. Tọa độ là kết quả rà soát AI, cần kiểm cuối.
+Vòng 1 giữ snapshot nhãn cũ; phiếu vòng 1 có 3 ảnh lỗi và 8 ảnh không thấy lỗi, 29 ảnh chưa chốt. Vì còn can_review/guideline_gap, trạng thái vẫn Hold.
+Vòng 2 dùng nhãn mới: 488 annotation; phiếu có 9 ảnh không thấy lỗi và 31 ảnh chưa chốt. Hai ảnh vừa thêm đối tượng vẫn để chờ kiểm độc lập. Tỉ lệ lỗi 0/9 chỉ trên phần được điền phiếu, không phải 0/40 và không chứng minh cả lô sạch. Còn 971 mục trì hoãn, chưa xác nhận tính độc lập hoặc phản tư cá nhân. Xem reviews/round-02/qc_report_auto.md và ai_calibration_20261117/image_review_40.csv.

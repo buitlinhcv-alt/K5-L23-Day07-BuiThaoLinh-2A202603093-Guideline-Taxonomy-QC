@@ -1,0 +1,2 @@
+Vòng 2: 40/40 ảnh. Phiếu: submission\qc\reviews\round-02\qc_review.csv.
+Đối chiếu ảnh tại work\review\round-02 rồi chạy python scripts/qc_report.py --round 2.

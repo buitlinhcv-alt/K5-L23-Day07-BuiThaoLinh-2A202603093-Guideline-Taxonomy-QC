@@ -16,6 +16,7 @@ img_002.jpg,car,483.0,91.0,155.0,129.0,1,no,calibration
 img_002.jpg,car,610.0,118.0,128.0,104.0,1,no,calibration
 img_002.jpg,car,728.0,150.0,102.0,100.0,1,no,calibration
 img_002.jpg,car,815.0,172.0,74.0,91.0,1,no,calibration
+img_002.jpg,person,858.0,317.0,31.0,112.0,0,no,calibration
 img_003.jpg,car,279.0,34.0,78.0,56.0,1,no,calibration
 img_003.jpg,car,242.0,42.0,40.0,50.0,2,no,calibration
 img_003.jpg,motorcycle,875.0,24.0,85.0,92.0,1,yes,calibration
@@ -36,7 +37,7 @@ img_003.jpg,motorcycle,477.0,182.0,95.0,159.0,2,no,calibration
 img_003.jpg,motorcycle,766.0,37.0,60.0,137.0,1,no,calibration
 img_003.jpg,motorcycle,451.0,46.0,44.0,65.0,1,no,calibration
 img_003.jpg,motorcycle,193.0,72.0,58.0,63.0,2,no,calibration
-img_004.jpg,person,209.0,126.0,125.0,123.0,2,no,calibration
+img_004.jpg,person,196.0,126.0,138.0,291.0,2,no,calibration
 img_004.jpg,person,576.0,173.0,88.0,177.0,2,no,calibration
 img_005.jpg,van,0.0,76.0,69.0,82.0,1,yes,calibration
 img_005.jpg,van,68.0,28.0,892.0,333.0,2,yes,calibration
@@ -109,6 +110,7 @@ img_010.jpg,motorcycle,558.0,247.0,326.0,377.0,2,no,calibration
 img_010.jpg,person,119.0,118.0,213.0,301.0,1,no,calibration
 img_010.jpg,person,139.0,86.0,268.0,425.0,2,no,calibration
 img_010.jpg,person,304.0,114.0,133.0,340.0,2,no,calibration
+img_010.jpg,motorcycle,812.0,179.0,148.0,275.0,1,yes,calibration
 img_011.jpg,person,170.0,342.0,24.0,63.0,1,no,calibration
 img_011.jpg,person,33.0,344.0,26.0,60.0,0,no,calibration
 img_011.jpg,person,268.0,337.0,22.0,54.0,1,no,calibration
