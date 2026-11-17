@@ -1,0 +1,64 @@
+{
+  "changes": [
+    {
+      "image": "img_001.jpg",
+      "old_annotation_id": 1,
+      "field": "occluded_level",
+      "before": "1",
+      "after": "2",
+      "reason": "Phần chân/thân dưới của người ngồi bị bàn/xe/người phía trước che; không chỉ che dưới 30%."
+    },
+    {
+      "image": "img_001.jpg",
+      "old_annotation_id": 2,
+      "field": "occluded_level",
+      "before": "1",
+      "after": "2",
+      "reason": "Phần chân/thân dưới của người ngồi bị bàn/xe/người phía trước che; không chỉ che dưới 30%."
+    },
+    {
+      "image": "img_001.jpg",
+      "old_annotation_id": 7,
+      "field": "occluded_level",
+      "before": "1",
+      "after": "2",
+      "reason": "Phần chân/thân dưới của người ngồi bị bàn/xe/người phía trước che; không chỉ che dưới 30%."
+    },
+    {
+      "image": "img_001.jpg",
+      "old_annotation_id": 8,
+      "field": "occluded_level",
+      "before": "1",
+      "after": "2",
+      "reason": "Phần chân/thân dưới của người ngồi bị bàn/xe/người phía trước che; không chỉ che dưới 30%."
+    },
+    {
+      "image": "img_002.jpg",
+      "old_annotation_id": 13,
+      "field": "category_id",
+      "before": 1,
+      "after": 2,
+      "reason": "Xe Nissan đỏ có cabin và thùng hàng tách riêng, là pickup thuộc truck."
+    }
+  ],
+  "cleared_review_flags_on_images": [
+    1,
+    4,
+    7,
+    10,
+    12,
+    17,
+    20,
+    26,
+    27,
+    28,
+    29,
+    33,
+    34,
+    37,
+    38
+  ],
+  "remaining_pending_cases": 899,
+  "newly_resolved_deferred_cases": 72,
+  "attribution": "AI reviewer delegated by 102; does not assert human review"
+}
